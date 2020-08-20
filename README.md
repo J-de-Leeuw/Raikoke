@@ -8,7 +8,7 @@ Python code to plot FSS and SAL-score.This program uses the following data:
 
 *FSS_03DU_N1_15Tg_15km_AK..._csv*: Data for the Fractional Skill Score for the various NAME simulations
 
-*mass_03DU_N1_15Tg_15km_AK..._csv*: Data for SO2 mass estimates (Tg of SO2) from TROPOMI, NAME and the TROPOMI error estimates for the various NAME simulations
+*mass_03DU_N1_15Tg_15km_AK..._csv*: Data for SO2 mass estimates (Tg of SO2) for each separate TROPOMI overpass and the corresponding NAME estimate and the TROPOMI error estimates for the various NAME simulations.
 
 ### NAME_TROPOMI_mass_burden_plot.py 
 Python code to plot the mass burden and deposition plots.This program uses the following data:
